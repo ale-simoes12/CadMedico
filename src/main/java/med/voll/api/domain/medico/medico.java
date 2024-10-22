@@ -1,7 +1,7 @@
-package med.voll.api.medico;
+package med.voll.api.domain.medico;
 
 import jakarta.validation.Valid;
-import med.voll.api.endereco.Endereco;
+import med.voll.api.domain.endereco.Endereco;
 import jakarta.persistence.*;
 import lombok.Getter;
 
